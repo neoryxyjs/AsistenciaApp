@@ -1,0 +1,7 @@
+{
+  "name": "proyecto_jardin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
